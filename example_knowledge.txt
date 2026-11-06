@@ -1,0 +1,5 @@
+DEMO DOCUMENT — use this to test offline document retrieval.
+Project Orion is an example Java application using Spring Boot and PostgreSQL.
+The fictional team plans to finish an API prototype by 20 December 2026.
+The primary codebase uses Java 21. The deployment environment is a private local Docker container.
+These facts exist only for the demo and are not facts about the user.
