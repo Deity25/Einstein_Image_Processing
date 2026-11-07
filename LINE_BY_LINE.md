@@ -1,4 +1,4 @@
-# Einstein Offline — code explained, line by line
+# Einstein Offline —  explained, line by line
 
 This is an explanation of the working project, not just pseudocode. Open `server.py` and `index.html` beside this guide, find the corresponding function, and follow each line. Comments already appear throughout the source. The short `terminal_einstein.py` is also directly annotated above almost every executable line.
 
