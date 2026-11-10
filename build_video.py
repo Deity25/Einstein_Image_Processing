@@ -2,7 +2,6 @@
 """Rebuild the narrated tutorial: Pillow + OpenCV + local espeak + ffmpeg.
 
 This is a *tutorial-building tool*, not required to run the offline assistant.
-
 It uses the included spritesheet and never calls an internet service.
 """
 
