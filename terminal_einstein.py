@@ -2,6 +2,7 @@
 """Minimal terminal assistant. Every important line is annotated for learning."""
 
 # Reuse exactly the same offline memory and model engine as the browser app.
+
 from server import (initialize, add_memory, get_memories, make_messages,
                     ollama_chat, remember_chat, MODEL)
 
