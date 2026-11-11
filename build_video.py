@@ -4,7 +4,6 @@
 This is a *tutorial-building tool*, not required to run the offline assistant.
 It uses the included spritesheet and never calls an internet service.
 """
-
 import io
 import math
 import subprocess
