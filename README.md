@@ -1,5 +1,6 @@
 # Einstein Offline — animated companion + local AI (macOS)
 
+
 **What you are installing:** A browser-based local Einstein app with an animated chibi Einstein pet, an offline Ollama AI, explicit persistent memory, simple document retrieval, and chat history. **This is independent of the Codex desktop pet.** The Codex pet provides animation only; this separate app provides the assistant functionality.
 
 ## One-time setup WITH internet
