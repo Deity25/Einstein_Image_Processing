@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3\
 """Rebuild the narrated tutorial: Pillow + OpenCV + local espeak + ffmpeg.
 
 This is a *tutorial-building tool*, not required to run the offline assistant.
